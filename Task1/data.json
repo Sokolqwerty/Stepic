@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Joelle Schamberger",
+    "phoneNumber": "+1 (264) 839-0576",
+    "email": "mina.kuhn@koch.biz",
+    "address": {
+      "street": "7880 Batz Hollow",
+      "city": "Moorefort",
+      "state": "MA",
+      "zipcode": "09361"
+    },
+    "preferences": {
+      "theme": "light",
+      "notifications": true,
+      "languages": ["English", "French"]
+    },
+    "userAgent": "Opera/8.91 (X11; Linux x86_64; en-US) Presto/2.8.309 Version/12.00",
+    "hexcolor": "#d9eb69"
+  },
+  {
+    "name": "Lela McGlynn",
+    "phoneNumber": "(750) 456-1017",
+    "email": "gutkowski.derick@beier.com",
+    "address": {
+      "street": "656 Jeramie Orchard",
+      "city": "East Normastad",
+      "state": "TN",
+      "zipcode": "13316"
+    },
+    "preferences": {
+      "theme": "dark",
+      "notifications": false,
+      "languages": ["Spanish"]
+    },
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_8) AppleWebKit/5360 (KHTML, like Gecko) Chrome/40.0.807.0 Mobile Safari/5360",
+    "hexcolor": "#f1459b"
+  },
+  {
+    "name": "Kiarra Macejkovic Sr.",
+    "phoneNumber": "390.450.3635",
+    "email": "graham09@bernier.com",
+    "address": {
+      "street": "14323 Ferry Trail",
+      "city": "South Pascale",
+      "state": "SC",
+      "zipcode": "71035"
+    },
+    "preferences": {
+      "theme": "light",
+      "notifications": true,
+      "languages": ["German", "English"]
+    },
+    "userAgent": "Mozilla/5.0 (Windows; U; Windows CE) AppleWebKit/532.45.6 (KHTML, like Gecko) Version/4.0 Safari/532.45.6",
+    "hexcolor": "#5e5ef2"
+  },
+  {
+    "name": "Griffin Steuber",
+    "phoneNumber": "(805) 720-8423",
+    "email": "kaya21@gmail.com",
+    "address": {
+      "street": "684 Morton Expressway",
+      "city": "Kathrynebury",
+      "state": "SC",
+      "zipcode": "46584"
+    },
+    "preferences": {
+      "theme": "dark",
+      "notifications": true,
+      "languages": ["English"]
+    },
+    "userAgent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/4.1)",
+    "hexcolor": "#78a5d3"
+  },
+  {
+    "name": "Lorenzo Armstrong",
+    "phoneNumber": "+1-303-836-4796",
+    "email": "ywill@gmail.com",
+    "address": {
+      "street": "50596 Ortiz Islands",
+      "city": "Cliftonland",
+      "state": "NC",
+      "zipcode": "46775"
+    },
+    "preferences": {
+      "theme": "light",
+      "notifications": false,
+      "languages": ["French"]
+    },
+    "userAgent": "Opera/8.14 (X11; Linux x86_64; en-US) Presto/2.10.185 Version/11.00",
+    "hexcolor": "#c86467"
+  },
+  {
+    "name": "Garret Leuschke",
+    "phoneNumber": "+1 (738) 333-3015",
+    "email": "wolf.arthur@hotmail.com",
+    "address": {
+      "street": "5923 Bashirian Crest Apt. 670",
+      "city": "Opaltown",
+      "state": "ND",
+      "zipcode": "80556-4650"
+    },
+    "preferences": {
+      "theme": "dark",
+      "notifications": true,
+      "languages": ["English", "Spanish"]
+    },
+    "userAgent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/4.0)",
+    "hexcolor": "#98b924"
+  },
+  {
+    "name": "Prof. Forest Raynor DVM",
+    "phoneNumber": "(207) 379-3248",
+    "email": "taya32@yahoo.com",
+    "address": {
+      "street": "25513 Sandy Camp",
+      "city": "Richmondton",
+      "state": "OR",
+      "zipcode": "92801"
+    },
+    "preferences": {
+      "theme": "light",
+      "notifications": true,
+      "languages": ["Italian"]
+    },
+    "userAgent": "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.1)",
+    "hexcolor": "#95d427"
+  },
+  {
+    "name": "Enos Bernhard",
+    "phoneNumber": "597.220.9943",
+    "email": "ztoy@balistreri.com",
+    "address": {
+      "street": "331 Alan Lock Suite 026",
+      "city": "Garrisonberg",
+      "state": "PA",
+      "zipcode": "06264"
+    },
+    "preferences": {
+      "theme": "dark",
+      "notifications": false,
+      "languages": ["French", "German"]
+    },
+    "userAgent": "Opera/8.18 (Windows NT 6.0; en-US) Presto/2.12.328 Version/11.00",
+    "hexcolor": "#df578b"
+  }
+]

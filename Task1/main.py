@@ -1,5 +1,3 @@
-import json
-from tabulate import tabulate
 from utils import sort_user_data, get_name
 from JSON_parsing import load_data, parse_user_data, display_table
 
